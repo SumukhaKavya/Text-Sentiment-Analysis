@@ -11,6 +11,9 @@ Jupyter Notebooks: Interactive notebooks demonstrating the step-by-step process 
 
 Documentation: Detailed documentation explaining the project's objectives, methodologies, and insights gained from the analysis.
 
+Here is the screenshot of the pair plot which displays the accuracies of the different models for each preprocessing technique.
+![Pair Plot Screenshot](Capture.JPG)
+
 Through this project, I aimed to gain hands-on experience in Data Engineering, NLP, and Machine Learning while providing valuable insights into product reviews and enhancing decision-making processes.
 
 Feel free to explore the repository for a more in-depth understanding of the project. Your feedback and suggestions are highly appreciated.
