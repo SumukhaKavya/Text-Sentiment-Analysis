@@ -1,4 +1,4 @@
-# Text-Sentiment-Analysis
+# Text-Score-Prediction
 The project's GitHub repository contains the code, data, and documentation related to the Text Review Analysis and Rating Prediction project. The repository showcases the following key components:
 
 Data Transformation Code: Python code to extract and transform the raw text data into a structured CSV format.
